@@ -7,6 +7,8 @@ Storybook is here:
 - Production: https://ucsb-cs156-w22.github.io/jpa03-lukeyoffe-docs/storybook
 - QA: https://ucsb-cs156-w22.github.io/jpa03-lukeyoffe-docs-qa/storybook
 
+codecov badge: [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-lukeyoffe/branch/master/graph/badge.svg?token=quDcmBMwJm)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-lukeyoffe)
+
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
