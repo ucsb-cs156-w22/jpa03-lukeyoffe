@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-lukeyoffe/branch/main/graph/badge.svg?token=quDcmBMwJm)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-lukeyoffe)
+
 # demo-spring-react-example: dsre
 
 Repo: https://github.com/ucsb-cs156-w22/jpa03-lukeyoffe/
@@ -6,8 +8,6 @@ Storybook is here:
 
 - Production: https://ucsb-cs156-w22.github.io/jpa03-lukeyoffe-docs/storybook
 - QA: https://ucsb-cs156-w22.github.io/jpa03-lukeyoffe-docs-qa/storybook
-
-codecov badge: [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-lukeyoffe/branch/master/graph/badge.svg?token=quDcmBMwJm)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-lukeyoffe)
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
